@@ -1,0 +1,9 @@
+
+*.swp
+
+.tmp/
+.qmake.stash
+*.pro.user
+Makefile
+QtRCCExtractor
+
